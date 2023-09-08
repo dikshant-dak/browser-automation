@@ -1,0 +1,602 @@
+[
+    {
+        "name": "\n Aavante Bar 2500  (Premium Black)        ",
+        "price": "₹9999",
+        "description": "5.1 Channel Sound  180W RMS Sound  2 Satelite Speakers",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AB2400__12_-removebg-preview_1_large.png?v=1691560614"
+    },
+    {
+        "name": "\n Aavante Bar 2400  (Premium Black)        ",
+        "price": "₹9999",
+        "description": "5.1 Channel Sound  Multiple Connectivity  2 Satelite Speakers",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AB2400__12_-removebg-preview_7c440613-499c-4d25-b80b-af927a5cd9cd_large.png?v=1688972035"
+    },
+    {
+        "name": "\nStone 250  (Red)        ",
+        "price": "₹1499",
+        "description": "Up to 9HRS Playback  RGB LED Lights  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_250_red_large.png?v=1673001723"
+    },
+    {
+        "name": "\nStone 250  (Black)        ",
+        "price": "₹1499",
+        "description": "Up to 9HRS Playback  RGB LED Lights  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_250_black_large.png?v=1673001721"
+    },
+    {
+        "name": "\nStone 260  (Psyche)        ",
+        "price": "₹1499",
+        "description": "Super Extra Bass  IPX5 Water Resistance  Party Booster",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ce5655c3-e83f-47ad-8f9f-6db17f896a1b_large.png?v=1686203843"
+    },
+    {
+        "name": "\nStone 1000  (Blue)        ",
+        "price": "₹2699",
+        "description": "Huge 3000 mAh Battery  IPX5 Water Resistance  Up to 10HRS Playback",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/9f0f62dc-9cdd-4531-9aac-4c8a76676d3c_large.png?v=1673002262"
+    },
+    {
+        "name": "\nStone 1000  (Black)        ",
+        "price": "₹2699",
+        "description": "Huge 3000 mAh Battery  IPX5 Water Resistance  Up to 10HRS Playback",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bb13850f-7d08-47d0-9d44-edd5da7ad2ed_large.png?v=1673002321"
+    },
+    {
+        "name": "\n Stone 1000v2  (Goblin Green)        ",
+        "price": "₹2999",
+        "description": "IPX5 Water Resistance  Huge 3000 mAh Battery  Party Booster",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/2_f79ac2e3-f310-4473-87b4-ab70955b21d8_large.png?v=1686122758"
+    },
+    {
+        "name": "\n Stone 1000v2  (Blizzard Blue)        ",
+        "price": "₹2999",
+        "description": "IPX5 Water Resistance  Huge 3000 mAh Battery  Party Booster",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_6f20b409-43b2-43d5-96ac-e9f8a26d79a8_large.png?v=1686122784"
+    },
+    {
+        "name": "\n Stone 1000v2  (Ballistic Black)        ",
+        "price": "₹2999",
+        "description": "IPX5 Water Resistance  Huge 3000 mAh Battery  Party Booster",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Untitled-1_e66c4515-7594-4726-89d6-e2b311a39c94_large.png?v=1686122826"
+    },
+    {
+        "name": "\n Stone 620  (Black)        ",
+        "price": "₹1999",
+        "description": "Up to 10HRS Playback  IPX4 Water Resistance  Portable & Lightweight",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-4_large.png?v=1669367724"
+    },
+    {
+        "name": "\n Stone 620  (Red)        ",
+        "price": "₹1999",
+        "description": "Up to 10HRS Playback  IPX4 Water Resistance  Portable & Lightweight",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-1_35ca2d35-3e30-49ec-bb17-dc55a1abc589_large.png?v=1669367724"
+    },
+    {
+        "name": "\n Stone 620  (Blue)        ",
+        "price": "₹1999",
+        "description": "Up to 10HRS Playback  IPX4 Water Resistance  Portable & Lightweight",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-2_0a0b0dd1-2a5d-4887-afad-7593ecf06ca1_large.png?v=1669367724"
+    },
+    {
+        "name": "\nStone 350  (Blue)        ",
+        "price": "₹1599",
+        "description": "Huge 2200 mAh Battery  IPX7 Water Resistance  Lightweight Design",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3d7aa8a6-7175-49ec-a5d2-312242542d23_large.png?v=1690185277"
+    },
+    {
+        "name": "\nStone 350  (Black)        ",
+        "price": "₹1599",
+        "description": "Huge 2200 mAh Battery  IPX7 Water Resistance  Lightweight Design",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/05ef4b39-9658-49d9-a2e2-10670c9a4255_large.png?v=1690185277"
+    },
+    {
+        "name": "\nStone 350  (Red)        ",
+        "price": "₹1599",
+        "description": "Huge 2200 mAh Battery  IPX7 Water Resistance  Lightweight Design",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/74a6b20d-9842-49da-b279-022812b81e1f_large.png?v=1686204413"
+    },
+    {
+        "name": "\n Stone 580  (Pine Green)        ",
+        "price": "₹1999",
+        "description": "Bluetooth V5.1  12W RMS Sound  LED Light",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Artboard_1__13___1_-removebg-preview_10968f47-eafc-410c-82cf-6b75d336ac29_large.png?v=1693371267"
+    },
+    {
+        "name": "\n Stone 580  (Midnight Black)        ",
+        "price": "₹1999",
+        "description": "Bluetooth V5.1  12W RMS Sound  LED Light",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Artboard_1__14___1_-removebg-preview_bc63252f-a62b-4943-81e2-c5869604c2c6_large.png?v=1693371220"
+    },
+    {
+        "name": "\n Stone 190  (Majestic Purple)        ",
+        "price": "₹999",
+        "description": "IPX7 Water Resistance  52mm Dynamic Driver  Lightweight Design",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_190_Packaging_3.1-removebg-preview_large.png?v=1690802568"
+    },
+    {
+        "name": "\n Stone 1450  (Blue)        ",
+        "price": "₹4499",
+        "description": "3600 mAh Battery   IPX5 Water Resistance  Portable & Lightweight",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_1_62ac3412-3b5f-4aa6-ae19-094c1421279b_large.png?v=1659430683"
+    },
+    {
+        "name": "\nBLITZ 2000  (Premium Black)        ",
+        "price": "₹5849",
+        "description": "Dynamic RGB LEDs  5 EQ Modes  2.1 Channel",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Main-_2_large.png?v=1616837403"
+    },
+    {
+        "name": "\n Rugby Plus  (Red)        ",
+        "price": "₹1999",
+        "description": "16W Stereo Sound  Party Booster  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_R_large.png?v=1686115412"
+    },
+    {
+        "name": "\n Rugby Plus  (Black)        ",
+        "price": "₹1999",
+        "description": "16W Stereo Sound  Party Booster  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_Black_large.png?v=1686115399"
+    },
+    {
+        "name": "\n Rugby Plus  (Blue)        ",
+        "price": "₹1999",
+        "description": "16W Stereo Sound  Party Booster  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_Blue_large.png?v=1686115405"
+    },
+    {
+        "name": "\n Stone 180  (Steelblue)        ",
+        "price": "₹1299",
+        "description": "Lightweight Design  IPX7 Water Resistance  Immersive HD Sound",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ab154db8-8ffc-4464-a37a-31f309893bfe_large.png?v=1686125474"
+    },
+    {
+        "name": "\n Stone 180  (Indianred)        ",
+        "price": "₹1299",
+        "description": "Lightweight Design  IPX7 Water Resistance  Immersive HD Sound",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/6a69eaeb-36b9-438c-a8c3-7ff5de3e6ead_large.png?v=1686125461"
+    },
+    {
+        "name": "\n Stone 180  (Black)        ",
+        "price": "₹1299",
+        "description": "Lightweight Design  IPX7 Water Resistance  Immersive HD Sound",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/d3e46a5d-cda9-49f8-a24f-b975fdd50689_large.png?v=1686125468"
+    },
+    {
+        "name": "\nStone 1500  (Red)        ",
+        "price": "₹6990",
+        "description": "Up to 15HRS Playback  IPX6 Water Resistance  Travel & Party Booster",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/c64ba15d-2fe8-402c-9ea6-6205a554aed1_large.png?v=1686202982"
+    },
+    {
+        "name": "\n Stone Ignite  (Jade Black)        ",
+        "price": "₹8999",
+        "description": "90W RMS Sound  Dynamic RGB Light  Broadcast Feature",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Mainimage_86d113ab-e793-4b6b-9de8-0b82d4f83a8e_large.png?v=1694000204"
+    },
+    {
+        "name": "\n Stone Symphony  (Black)        ",
+        "price": "₹4299",
+        "description": "LED Lights  IPX5 Water Resistance  20W Bluetooth Speaker",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_efda0a74-6389-42b3-ac60-0a386df7b743_large.png?v=1681123779"
+    },
+    {
+        "name": "\nStone 190 DC Edition  (Krypton Blue)        ",
+        "price": "₹1299",
+        "description": "52mm drivers  Bluetooth v5.0  800mAh battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-2_large.png?v=1656101185"
+    },
+    {
+        "name": "\nStone 500  (Green)        ",
+        "price": "₹1999",
+        "description": "RGB Lights  TWS Technology  10W Powerful Sound",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_b3a4f858-8170-404c-8d27-a86bc3ac2414_large.png?v=1673001483"
+    },
+    {
+        "name": "\nStone 1200F  (Yellow)        ",
+        "price": "₹3999",
+        "description": "Up to 09HRS Playback  RGB LED Lights  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1200f_main2_large.png?v=1673002142"
+    },
+    {
+        "name": "\nStone 1200F  (Olive)        ",
+        "price": "₹3999",
+        "description": "Up to 09HRS Playback  RGB LED Lights  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1200f_main3_large.png?v=1673002201"
+    },
+    {
+        "name": "\n Stone 1508  (Blue)        ",
+        "price": "₹7199",
+        "description": "Up to 15HRS Playback  Travel & Party Booster  IPX6 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/stone-1500-blue_b9fb7a71-f425-4fac-82ad-8c237b371b6f_large.png?v=1686124819"
+    },
+    {
+        "name": "\nBlitz 1500  (Premium Black)        ",
+        "price": "₹3499",
+        "description": "2.1 Channel  RGB LED Lights  5 EQ Modes",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_7fdc52dd-e28d-45a9-b965-09366b5ebb0d_large.png?v=1616582227"
+    },
+    {
+        "name": "\nStone 193  (Raging Red)        ",
+        "price": "₹1299",
+        "description": "Up to 04HRS Playback  Portable & Lightweight  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/stone-193-red_large.png?v=1686203345"
+    },
+    {
+        "name": "\n Stone 193 DC Edition  (Krypton Blue)        ",
+        "price": "₹1299",
+        "description": "4 Hours Playback  Bluetooth v5.0  52mm drivers",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-2_b850e5ae-c2c7-4a38-940e-bf7c79f3aa12_large.png?v=1662548396"
+    },
+    {
+        "name": "\n Stone 1200  (Black)        ",
+        "price": "₹3499",
+        "description": "14W Signature Sound  IPX7 Water Resistance  RGB LED Lights",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/e57bbbe7-5e99-4c43-8cf8-0ddd42caf3d3_large.png?v=1659506216"
+    },
+    {
+        "name": "\n Stone 1200  (Blue)        ",
+        "price": "₹3499",
+        "description": "14W Signature Sound  IPX7 Water Resistance  RGB LED Lights",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3e35681e-bcb1-449c-a58a-2d43e8b00bf4_large.png?v=1659506216"
+    },
+    {
+        "name": "\n Stone 650  (Red)        ",
+        "price": "₹1999",
+        "description": "10W Powerful Sound  Stereo Sound  Lightweight Design",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/91efc297-d380-4ccf-a70e-b9ab9ab1ad5b_large.png?v=1686140454"
+    },
+    {
+        "name": "\n Stone 650  (Mediumblue)        ",
+        "price": "₹1999",
+        "description": "10W Powerful Sound  Stereo Sound  Lightweight Design",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/a9474cf2-0bed-4318-a2ab-2ab8608a5552_large.png?v=1686140673"
+    },
+    {
+        "name": "\n Stone 650  (Black)        ",
+        "price": "₹1999",
+        "description": "10W Powerful Sound  Stereo Sound  Lightweight Design",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/0efd1f68-8988-4e8a-98bc-6690ccb6a828_large.png?v=1686140657"
+    },
+    {
+        "name": "\n Stone 1208 Sunburn Edition  (Techno Purple)        ",
+        "price": "₹4099",
+        "description": "9 Hours Playback  Bluetooth v5.0  RGB LEDs",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_5f41606a-604c-4433-b1a0-404b31892ab8_large.png?v=1682539208"
+    },
+    {
+        "name": "\n Party Pal 200  (Black)        ",
+        "price": "₹7999",
+        "description": "Up to 07HRS Playback  Multi Compatibility  Microphone Jack",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-im_large.png?v=1659552506"
+    },
+    {
+        "name": "\n Stone 190 Superman DC Edition  (Krypton Blue)        ",
+        "price": "₹1299",
+        "description": "4 Hours Playback  Bluetooth v5.0  52mm Drivers",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-2_8371ad69-3e2a-4c44-8f90-4f25cb25e272_large.png?v=1655541003"
+    },
+    {
+        "name": "\n Stone 170 LFW Edition  (Olivedrab)        ",
+        "price": "",
+        "description": "IPX6 Water Resistant  Premium HD Sound  LFW Edition",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/07206764-2d19-47ab-84b8-f2b77485fe18_large.png?v=1686125332"
+    },
+    {
+        "name": "\n Stone SpinX 2.0  (Darkblue)        ",
+        "price": "₹2499",
+        "description": "Up to 08HRS Playback  Travel & Party Booster  IPX6 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/9838d844-ad66-4853-9bad-98c78677d364_large.png?v=1686145921"
+    },
+    {
+        "name": "\nParty Pal 50  (Black)        ",
+        "price": "₹3999",
+        "description": "IPX5 Water Resistance  RGB LED Lights  Multiple Connectivity",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main---1_large.png?v=1640081297"
+    },
+    {
+        "name": "\nBlitz 1508  (Premium Black)        ",
+        "price": "₹3599",
+        "description": "2.1 Channel  RGB LED Lights  5 Entertainment EQ Modes",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_c3bad6aa-724c-4c56-b3b0-93f57785c07f_large.png?v=1686114886"
+    },
+    {
+        "name": "\n Party Pal 208  (Black)        ",
+        "price": "₹7999",
+        "description": "RGB Lights  7H Playback  Bluetooth v5.0",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-im_d3db50b9-3534-4161-bab5-81f546f3c258_large.png?v=1682539214"
+    },
+    {
+        "name": "\n Rugby Plus FM  (Red)        ",
+        "price": "",
+        "description": "52mm Drivers  Type C interface  2000 mAh battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_R_60710fef-bdab-4177-be07-6273b7536d26_large.png?v=1686115859"
+    },
+    {
+        "name": "\n Rugby Plus FM  (Blue)        ",
+        "price": "",
+        "description": "52mm Drivers  Type C interface  2000 mAh battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_Blue_cd42b3e2-9e7f-4f5d-9026-51770ac39389_large.png?v=1686115854"
+    },
+    {
+        "name": "\n Rugby Plus FM  (Black)        ",
+        "price": "",
+        "description": "52mm Drivers  Type C interface  2000 mAh battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_Black_7ec98ce1-2323-43ba-9d49-bb73b3a42c7f_large.png?v=1686115848"
+    },
+    {
+        "name": "\n Stone 1208  (Black)        ",
+        "price": "₹4099",
+        "description": "RGB LEDs  Bluetooth v5.0  76mm Drivers",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/e57bbbe7-5e99-4c43-8cf8-0ddd42caf3d3_77dfbc2e-987a-4607-8947-0e6782965d5c_large.png?v=1679336862"
+    },
+    {
+        "name": "\n Deuce USB 300 (Red)        ",
+        "price": "₹329",
+        "description": "3A Rapid Charge  tangle free cable",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/5abfc4a1-e100-42da-ba97-1b540446596e_large.png?v=1686036928"
+    },
+    {
+        "name": "\n Deuce USB 300 (Black)        ",
+        "price": "₹329",
+        "description": "3A Rapid Charge  tangle free cable",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/0ed71809-c9ce-47ee-b334-41ee33b11f03_large.png?v=1686036921"
+    },
+    {
+        "name": "\n Type C C400 (Black)        ",
+        "price": "₹499",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/type-c-c400_large.png?v=1613736869"
+    },
+    {
+        "name": "\nGift Card (₹500)        ",
+        "price": "",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Gift-Card-500_large.png?v=1615270910"
+    },
+    {
+        "name": "\nGift Card (₹5,000)        ",
+        "price": "",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Gift-card-5000_large.png?v=1615270911"
+    },
+    {
+        "name": "\nGift Card (₹2,000)        ",
+        "price": "",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Gift-Card-2000_large.png?v=1615270911"
+    },
+    {
+        "name": "\nGift Card (₹1,000)        ",
+        "price": "",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Gift-Card-1000_large.png?v=1615270910"
+    },
+    {
+        "name": "\n Deuce 330 (Black)        ",
+        "price": "₹299",
+        "description": "480 MBPS Speed  Premium Braiding  3A Rapid Charge",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_7f78ecf9-9452-44ef-b161-32ab11af703a_large.png?v=1686033249"
+    },
+    {
+        "name": "\n Type C A600 (black)        ",
+        "price": "₹599",
+        "description": "Type C Cable  10000+ Bends Lifespan  Universal Compatibility",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_0e842e22-c68e-49dc-a88f-da2e28be72a5_large.png?v=1633670991"
+    },
+    {
+        "name": "\n Micro USB 600 (Black)        ",
+        "price": "₹529",
+        "description": "3A Charging  Universal Compatibility  USB Cable",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_f4c7292c-f899-4daa-8d15-e1a0c6018b85_large.png?v=1633086536"
+    },
+    {
+        "name": "\n Aavante Bar 1550  (Black)        ",
+        "price": "₹9499",
+        "description": "2.1.Channel Sound  Sleek Superior Design  120W RMS Sound",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/aavante-bar-1500-1_2fcd5acb-56af-4fff-bc39-c9c336772378_large.png?v=1622623083"
+    },
+    {
+        "name": "\n Aavante Bar 1580  (Black)        ",
+        "price": "₹9999",
+        "description": "2.1.Channel Sound  Sleek Superior Design  60W Wired Subwoofer",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/aavante-bar-1500-1_c00e27ff-9f56-4718-bb39-d8be37e4987e_large.png?v=1658827376"
+    },
+    {
+        "name": "\n Dual Rapid QC 3.0 NC (Black)        ",
+        "price": "₹449",
+        "description": "5.4A Charging  Universal Compatibility  Qualcomm Certified",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/car-charger-main-image_1e0addf3-ca17-46c3-94ac-c7b60b752dea_large.png?v=1663154266"
+    },
+    {
+        "name": "\n Dual Rapid-Qc Car Charger 3.0 F Nc (Black)        ",
+        "price": "₹499",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/6875f924-20d3-4cb6-933d-5319504c7baa_36bb7013-05b6-4357-8048-f0e307a2a282_large.png?v=1662706404"
+    },
+    {
+        "name": "\n Aavante Bar 503  (black)        ",
+        "price": "₹1599",
+        "description": "Bluetooth v5.0  4.5H Playback  Dual EQ Modes",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/111_large.png?v=1681123769"
+    },
+    {
+        "name": "\nWatch‌ Primia  (Black)        ",
+        "price": "₹5000",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/MAINPRIMIA_large.png?v=1673000401"
+    },
+    {
+        "name": "\nWatch‌ Primia  (Ocean Blue)        ",
+        "price": "₹5000",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/blueprimia_large.png?v=1679350518"
+    },
+    {
+        "name": "\n Xtend Talk  (Teal Green)        ",
+        "price": "₹3999",
+        "description": "60+ Sports Modes",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/tg_8c268833-789d-463f-b631-95107524ec5e_large.png?v=1674119234"
+    },
+    {
+        "name": "\n Wave Arcade  (Grey)        ",
+        "price": "₹2199",
+        "description": "Built-in Games  100+ Watch Faces  BT Calling",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/grey_3cba165a-c357-4664-8015-2f8cbabb5a55_large.png?v=1675367370"
+    },
+    {
+        "name": "\n Wave Arcade  (Basil Green)        ",
+        "price": "₹2199",
+        "description": "Built-in Games  100+ Watch Faces  BT Calling",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/green_a5214c01-18fa-4987-b6de-b3187d6c5eb6_large.png?v=1675367478"
+    },
+    {
+        "name": "\n Wave Arcade  (Ink Blue)        ",
+        "price": "₹2199",
+        "description": "Built-in Games  100+ Watch Faces  BT Calling",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/blue_large.png?v=1675367432"
+    },
+    {
+        "name": "\n Wave Arcade  (Charcoal Black)        ",
+        "price": "₹2199",
+        "description": "Built-in Games  100+ Watch Faces  BT Calling",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/black_21bd8228-f672-4ccd-84a2-aff8ec1c293d_large.png?v=1675367282"
+    },
+    {
+        "name": "\n Stone Grenade  (Deep Aquamarine)        ",
+        "price": "₹1499",
+        "description": "Up to 07HRS Playback  IPX6 Water Resistance  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_green_large.png?v=1686832307"
+    },
+    {
+        "name": "\n Stone Grenade  (Silver Grey)        ",
+        "price": "₹1499",
+        "description": "Up to 07HRS Playback  IPX6 Water Resistance  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_grey_eb235c82-e1ad-40dc-83d3-2521d040b479_large.png?v=1686832323"
+    },
+    {
+        "name": "\n Stone Grenade  (Blue)        ",
+        "price": "₹1499",
+        "description": "Up to 07HRS Playback  IPX6 Water Resistance  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_blue_e09ae3e8-7534-4ad2-a9a2-1b545a423fd1_large.png?v=1686832350"
+    },
+    {
+        "name": "\n Stone Grenade  (Red)        ",
+        "price": "₹1499",
+        "description": "Up to 07HRS Playback  IPX6 Water Resistance  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_reed_large.png?v=1686832257"
+    },
+    {
+        "name": "\n Stone Grenade  (Charcoal Black)        ",
+        "price": "₹1499",
+        "description": "Up to 07HRS Playback  IPX6 Water Resistance  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/0932e2dd-44fb-43f1-988b-82c086b7ff94_large.png?v=1686832392"
+    },
+    {
+        "name": "\n Stone Grenade Rtl  (Charcoal Black)        ",
+        "price": "₹1499",
+        "description": "Stereo Sound  5W Driver  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/0932e2dd-44fb-43f1-988b-82c086b7ff94_76759a89-8b28-4858-b243-f644e1272399_large.png?v=1686833240"
+    },
+    {
+        "name": "\n Stone Grenade Rtl  (Deep Aquamarine)        ",
+        "price": "₹1499",
+        "description": "Stereo Sound  5W Driver  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_green_ee96ad47-fddf-4c7b-8b02-ce06831eeb41_large.png?v=1686832514"
+    },
+    {
+        "name": "\n Stone Grenade Rtl  (Silver Grey)        ",
+        "price": "₹1499",
+        "description": "Stereo Sound  5W Driver  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_grey_44b324c6-b281-4459-a494-f27e3ce82ef3_large.png?v=1686833209"
+    },
+    {
+        "name": "\n Stone Grenade Rtl  (Blue)        ",
+        "price": "₹1499",
+        "description": "Stereo Sound  5W Driver  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_blue_80e3c43f-7e6f-4fb0-be94-f2fab65c732b_large.png?v=1686833160"
+    },
+    {
+        "name": "\n Stone Grenade Rtl  (Red)        ",
+        "price": "₹1499",
+        "description": "Stereo Sound  5W Driver  1200 mAh Battery",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_reed_22a127e9-e0e8-4d1c-8e80-9e53266f499b_large.png?v=1686833170"
+    },
+    {
+        "name": "\n Aavante Bar 3200D  (Black)        ",
+        "price": "₹16999",
+        "description": "360W RMS Sound  5.1 Channel Sound  EQ Modes",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/2_af44472c-0a30-43dd-aad0-bbd2b90eb93e_large.png?v=1683826141"
+    },
+    {
+        "name": "\nStone 200 (Blue)        ",
+        "price": "₹1299",
+        "description": "Integrated Controls  1500 mAh Battery  IPX6 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/200124_pjpeg-1100x1100-PhotoRoom.png-PhotoRoom_large.png?v=1686203548"
+    },
+    {
+        "name": "\nStone 800 (Black)        ",
+        "price": "₹749",
+        "description": "2200 mAh Battery  Bluetooth v4.2  45mm Drivers",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/stone-800_large.png?v=1682539213"
+    },
+    {
+        "name": "\nStone 149 (Blue)        ",
+        "price": "₹749",
+        "description": "Bluetooth v5.0  1200 mAh Battery  40mm Drivers",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/71ZI6mLQ64L._SY450_-PhotoRoom.png-PhotoRoom_large.png?v=1682539212"
+    },
+    {
+        "name": "\nStone 200 (Black)        ",
+        "price": "₹1299",
+        "description": "Integrated Controls  1500 mAh Battery  IPX6 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/BoAt-Speaker-1-PhotoRoom.png-PhotoRoom_1_large.png?v=1686203522"
+    },
+    {
+        "name": "\nStone E 300 (Charcoal Black)        ",
+        "price": "₹749",
+        "description": "",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/boat-stone-300-original-imafkeuh59wgzgzs-PhotoRoom.png-PhotoRoom_large.png?v=1682539213"
+    },
+    {
+        "name": "\n Stone Grenade Pro (Charcoal Black)        ",
+        "price": "₹1499",
+        "description": "5W Driver  Integrated Controls  IPX6 Water Resis",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/61KJIf2bmDL._SX679_-PhotoRoom.png-PhotoRoom_large.png?v=1682539214"
+    },
+    {
+        "name": "\n Stone 1200F Sunburn Edition (Jazzy Blue)        ",
+        "price": "₹3999",
+        "description": "Up to 09HRS Playback  RGB LED Lights  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_59cb66ec-ce00-4d04-8a53-6805149268be_large.png?v=1686139325"
+    },
+    {
+        "name": "\n Stone 1200F Sunburn Edition (Techno Purple)        ",
+        "price": "₹3999",
+        "description": "Up to 09HRS Playback  RGB LED Lights  IPX7 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_3359e1b6-e859-4856-a01f-94fa78a5777e_large.png?v=1645082234"
+    },
+    {
+        "name": "\n Stone 190 - Black Panther Marvel Edition (King’s Black)        ",
+        "price": "₹1299",
+        "description": "IPX7 Water Resistance  52mm Dynamic Driver  Lightweight Design",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/190bp_large.png?v=1682539203"
+    },
+    {
+        "name": "\n Stone 160  (Steelblue)        ",
+        "price": "₹999",
+        "description": "Portable & Lightweight  800 mAh Battery  IPX4 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/stone-160-blue_large.png?v=1686124980"
+    },
+    {
+        "name": "\n Stone 160  (Olivedrab)        ",
+        "price": "₹999",
+        "description": "Portable & Lightweight  800 mAh Battery  IPX4 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/stone-160-green_large.png?v=1686124989"
+    },
+    {
+        "name": "\n Stone 160  (Black)        ",
+        "price": "₹999",
+        "description": "Portable & Lightweight  800 mAh Battery  IPX4 Water Resistance",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/stone-160-black_large.png?v=1686124965"
+    }
+]
